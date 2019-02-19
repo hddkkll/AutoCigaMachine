@@ -115,7 +115,7 @@ public class AutoCigaMachine {
 		System.out.println("1. 카드 계산");
 		System.out.println("2. 현금 계산");
 		System.out.println("===================================");
-	}
+	} 
 
 	//수량 체크
 	private boolean countCk(int menuNum, int countNum) {

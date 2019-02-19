@@ -8,7 +8,6 @@ public class CigaMain {
 		AutoCigaMachine ciga = new AutoCigaMachine();
 		
 		ciga.start();
-		
 	}
 
 }
